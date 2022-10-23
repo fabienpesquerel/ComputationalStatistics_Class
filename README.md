@@ -1,4 +1,4 @@
-# ComputationalStatistics_Class
+# Computational Statistics Class & Tutorial
 A theoretical and numerical tour of computational statistics
 
 You can use this repository to raise issues regarding the following posts.
